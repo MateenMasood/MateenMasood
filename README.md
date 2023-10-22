@@ -8,7 +8,7 @@
 <!-- [![Telegram Badge](https://img.shields.io/badge/-@AkashRajpurohit-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/AkashRajpurohit) -->
 <!-- ![](https://visitor-badge.laobi.icu/badge?page_id=akashrajpurohit.visitor-badge&style=flat-square&color=0088cc) -->
 
-<img src="./github-snake-dark.svg" />
+<img src="https://github.com/MateenMasood/MateenMasood/github-snake-dark.svg" />
   
 ### Glad to see you here!
 
