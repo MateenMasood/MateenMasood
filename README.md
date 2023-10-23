@@ -71,6 +71,6 @@
 
 <div align="center">
 
-### Thank you for reading, Share your ❤️ by starring some of the repositories! 🌟
+### Thank you for reading ❤️
 
 </div>
