@@ -49,7 +49,7 @@
 <code><img height="35" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="bash"></code>
 <code><img height="35" src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" alt="CI/CD"></code>
 
-### DevOps:
+### Cloud:
 
 <code><img height="35" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="CI/CD"></code>
 
